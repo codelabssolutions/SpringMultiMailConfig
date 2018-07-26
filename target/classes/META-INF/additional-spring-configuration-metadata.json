@@ -1,0 +1,217 @@
+{"properties": [
+  {
+    "name": "email.to",
+    "type": "java.lang.String",
+    "description": "A description for 'email.to'"
+  },
+  {
+    "name": "email.subject",
+    "type": "java.lang.String",
+    "description": "A description for 'email.subject'"
+  },
+  {
+    "name": "goole.email.host",
+    "type": "java.lang.String",
+    "description": "A description for 'goole.email.host'"
+  },
+  {
+    "name": "email.TestingText",
+    "type": "java.lang.String",
+    "description": "A description for 'email.TestingText'"
+  },
+  {
+    "name": "email.from",
+    "type": "java.lang.String",
+    "description": "A description for 'email.from'"
+  },
+  {
+    "name": "google.email.port",
+    "type": "java.lang.String",
+    "description": "A description for 'google.email.port'"
+  },
+  {
+    "name": "email.TestingText",
+    "type": "java.lang.String",
+    "description": "A description for 'email.TestingText'"
+  },
+  {
+    "name": "spring.gmail_mail.host",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.gmail_mail.host'"
+  },
+  {
+    "name": "spring.gmail_mail.port",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.gmail_mail.port'"
+  },
+  {
+    "name": "spring.gmail_mail.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.gmail_mail.username'"
+  },
+  {
+    "name": "spring.gmail_mail.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.gmail_mail.password'"
+  },
+  {
+    "name": "spring.gmail_mail.properties.mail.smtp.auth",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.gmail_mail.properties.mail.smtp.auth'"
+  },
+  {
+    "name": "spring.gmail_mail.properties.mail.smtp.starttls.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.gmail_mail.properties.mail.smtp.starttls.enable'"
+  },
+  {
+    "name": "spring.gmail_mail.properties.mail.smtp.starttls.required",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.gmail_mail.properties.mail.smtp.starttls.required'"
+  },
+  {
+    "name": "spring.gmail_mail.properties.mail.smtp.connectiontimeout",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.gmail_mail.properties.mail.smtp.connectiontimeout'"
+  },
+  {
+    "name": "spring.gmail_mail.properties.mail.smtp.timeout",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.gmail_mail.properties.mail.smtp.timeout'"
+  },
+  {
+    "name": "spring.gmail_mail.properties.mail.smtp.writetimeout",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.gmail_mail.properties.mail.smtp.writetimeout'"
+  },
+  {
+    "name": "spring.gmail_mail.transport.protocol",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.gmail_mail.transport.protocol'"
+  },
+  {
+    "name": "spring.gmail_mail.mail.smtp.connectiontimeout",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.gmail_mail.mail.smtp.connectiontimeout'"
+  },
+  {
+    "name": "spring.gmail_mail.mail.smtp.starttls.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.gmail_mail.mail.smtp.starttls.enable'"
+  },
+  {
+    "name": "spring.gmail_mail.mail.smtp.starttls.required",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.gmail_mail.mail.smtp.starttls.required'"
+  },
+  {
+    "name": "spring.gmail_mail.mail.smtp.auth",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.gmail_mail.mail.smtp.auth'"
+  },
+  {
+    "name": "spring.gmail_mail.mail.smtp.timeout",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.gmail_mail.mail.smtp.timeout'"
+  },
+  {
+    "name": "spring.gmail_mail.mail.smtp.writetimeout",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.gmail_mail.mail.smtp.writetimeout'"
+  },
+  {
+    "name": "spring.amazon_mail.host",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.amazon_mail.host'"
+  },
+  {
+    "name": "spring.amazon_mail.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.amazon_mail.username'"
+  },
+  {
+    "name": "spring.amazon_mail.mail.transport.protocol",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.amazon_mail.mail.transport.protocol'"
+  },
+  {
+    "name": "spring.amazon_mail.mail.smtp.port",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.amazon_mail.mail.smtp.port'"
+  },
+  {
+    "name": "spring.amazon_mail.mail.smtp.starttls.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.amazon_mail.mail.smtp.starttls.enable'"
+  },
+  {
+    "name": "spring.amazon_mail.mail.smtp.starttls.required",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.amazon_mail.mail.smtp.starttls.required'"
+  },
+  {
+    "name": "spring.amazon_mail.mail.smtp.auth",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.amazon_mail.mail.smtp.auth'"
+  },
+  {
+    "name": "spring.amazon_mail.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.amazon_mail.password'"
+  },
+  {
+    "name": "spring.amazon_mail.mail.port",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.amazon_mail.mail.port'"
+  },
+  {
+    "name": "spring.amazon_mail.port",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.amazon_mail.port'"
+  },
+  {
+    "name": "spring.gmail_mail.smtp.starttls.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.gmail_mail.smtp.starttls.enable'"
+  },
+  {
+    "name": "spring.gmail_mail.smtp.connectiontimeout",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.gmail_mail.smtp.connectiontimeout'"
+  },
+  {
+    "name": "spring.gmail_mail.smtp.starttls.required",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.gmail_mail.smtp.starttls.required'"
+  },
+  {
+    "name": "spring.gmail_mail.smtp.auth",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.gmail_mail.smtp.auth'"
+  },
+  {
+    "name": "spring.gmail_mail.smtp.timeout",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.gmail_mail.smtp.timeout'"
+  },
+  {
+    "name": "spring.amazon_mail.transport.protocol",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.amazon_mail.transport.protocol'"
+  },
+  {
+    "name": "spring.amazon_mail.smtp.starttls.required",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.amazon_mail.smtp.starttls.required'"
+  },
+  {
+    "name": "spring.amazon_mail.smtp.starttls.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.amazon_mail.smtp.starttls.enable'"
+  },
+  {
+    "name": "spring.gmail_mail.smtp.writetimeout",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.gmail_mail.smtp.writetimeout'"
+  }
+]}
